@@ -1,0 +1,20 @@
+{
+  "customer_details": [
+    {
+      "id": 1,
+      "name": "obuse samuel",
+      "bvn": "095432134567"
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Ehimah",
+      "accounts": [
+        "1234567890",
+        "0987654321",
+        "5432167890",
+        "6789012345"
+      ]
+    }
+  ]
+}
